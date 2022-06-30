@@ -1,2 +1,3 @@
 # belajarflask
-Documentation Of Learning 
+## Documentation Of Learning 
+### Creat env before you run this app
