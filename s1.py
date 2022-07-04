@@ -15,12 +15,6 @@ def register():
 	return render_template('register.html', namaUser = namaUser)
 
 
-
-
-
-
-
-
 # @app.route('/nama/<namanya>')
 # def cetakNama(namanya):
 # 	pesan = "Nama anda adalah : " + namanya
